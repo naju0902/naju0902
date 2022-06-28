@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there! I'm Nahuel de Olazabal
 
-<!--
-**naju0902/naju0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 I am 21 years old and I live in Mar del Plata, Buenos Aires, Argentina. Since 2018 I have been interested in graphic design and in 2020 I started to study web design on my own. I am passionate about technology and specifically programming. I am currently finishing a bootcamp at NUCBA that composes design and web programming.
 
-Here are some ideas to get you started:
+💻 I work with PHP, MYSQL, JavaScript, Jquery, HTML, CSS and Bootstrap. In the coming weeks I will also be adding NodeJS, React, Ajax and MongoDB.
+In addition, I have knowledge in SEO, GIT and fluent use of Photoshop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 I lead a project started in January 2022 called NajuWeb, I invite you to visit it: https://www.najuweb.com
+
+### Contact with me!
+
+📲 +54 9 2235346121
+
+📧 nahueldeolazabal1608@gmail.com
