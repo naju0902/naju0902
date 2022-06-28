@@ -7,6 +7,8 @@ In addition, I have knowledge in SEO, GIT and fluent use of Photoshop.
 
 😄 I lead a project started in January 2022 called NajuWeb, I invite you to visit it: https://www.najuweb.com
 
+💻 I also invite you to see my portfolio: https://www.najuweb.com/nahuel_de_olazabal
+
 ### Contact with me!
 
 📲 +54 9 2235346121
